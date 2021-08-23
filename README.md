@@ -10,7 +10,7 @@ hope you find this helpful :)
 
 ### By: SabryHosny.
 #### See live link:
-https://sabryhosny.github.io/Smart-JS-Music-Player-App/
+https://sabryhosny.github.io/Animated-Login-Signup-Forms/
 
 ![Animated Login & Sign up Forms](/preview.png)
 
