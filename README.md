@@ -2,7 +2,8 @@
 
 ## Description :
 In this tutorial you will learn how to apply your skills in Html & Css
-to make a beutiful Login & Sign up Forms.
+to make a beautiful Login & Sign up Forms.
+hope you find this helpful :)
 
 ## Follow Along with me on YouTube:
 
